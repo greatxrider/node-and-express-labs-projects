@@ -1,0 +1,12 @@
+{
+    "rust-analyzer.debug.engineSettings": {
+
+    },
+    "editor.defaultColorDecorators": true,
+    "window.autoDetectColorScheme": true,
+    "react-native-tools.networkInspector.consoleLogsColorTheme": "Light",
+    "workbench.colorCustomizations": {
+        
+
+    }
+}
